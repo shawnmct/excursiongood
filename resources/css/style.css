@@ -1,11 +1,33 @@
 body {
   background-color: black;
+  text-align: center;
+  font-family: verdana;
+}
+
+.subtitle, .copyright {
+  color: gray;
 }
 
 h1 {
   color: white;
+  font-size: 50px;
+}
+
+h2 {
+color: white;
+  font-size: 42px;
+  font-weight: 300;
 }
 
 a {
   color: Aquamarine;
+  font-size: 16px;
+}
+
+.subtitle {
+  font-size: 21px;
+}
+
+.copyright {
+  text-align: right;
 }
